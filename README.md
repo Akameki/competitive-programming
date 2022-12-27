@@ -2,13 +2,13 @@
 **what's this for?**   
 lets me store and sync work between computers.  
 keep track of all the cp-related work I've done in one place.  
-feel free to ask me for help on any question I have here.
+feel free to ask me for help on any problem I've solved.
 
 ---
 
 ## file structure
 separated by competitions/sites.  
-contest folders are a subset of the problems folders.
+`/contests/` contains what was submitted, `/problemset/` will have their upsolves.
 ```
 AdventOfCode
 └── <year>
@@ -18,7 +18,12 @@ Codeforces
 │   └─ <contest#><q>-<name>.cpp
 └── contests
     └─ <contest#>(div.<#>)
+        ├ README.md
         └ <contest#><q>-<name>.cpp
+LeetCode
+└── problemset
+    └─ <problem>-<name>.cpp
+
 ```
 ### links templates and dump
 I don't know who needs this but here.  
