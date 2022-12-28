@@ -1,19 +1,21 @@
-# personal competitive programming repo
-**what's this for?**   
-lets me store and sync work between computers.  
-keep track of all the cp-related work I've done in one place.  
-feel free to ask me for help on any problem I've solved.
+# Akameki/competitive-Programming
+*What's this for?*
+* Lets me store and sync work between computers
+* Lets me keep track of all the cp-related work I've done in one place
+* Lets you see possible solutions (free to ask me for help on any problem I've solved)
+* ...Maybe I will add personal resources/notes for myself sometime
 
----
 
-## file structure
-separated by competitions/sites.  
-`/contests/` contains what was submitted, `/problemset/` will have their upsolves.
+## What's in here?
+Mainly just my solutions to problems separated by competitions/sites.
+For contests I participated in, files in `/contests/` will contain my actual submissions whereas files in `/problemset/` will have accepted upsolves (can be the same).
 ```
+README.md
 AdventOfCode
 └── <year>
     └─ <day#>-<name>.cpp
 Codeforces
+├── README.md
 ├── problemset
 │   └─ <contest#><q>-<name>.cpp
 └── contests
@@ -25,8 +27,9 @@ LeetCode
     └─ <problem>-<name>.cpp
 
 ```
-### links templates and dump
-I don't know who needs this but here.  
+---
+### links templates and dump...
+I don't know who needs this but here..? 
 
 https://adventofcode.com  
 https://adventofcode.com/events  
