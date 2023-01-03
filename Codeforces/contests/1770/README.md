@@ -1,6 +1,6 @@
 ## [Good Bye 2022: 2023 is NEAR](https://codeforces.com/contest/1770) 
-**12/30/2022**
-472 → 772
+**12/30/2022** 150 min  
+772 → 1017
 
 WSL didn't work for first half an hour and had to restart laptop :x
 
@@ -8,7 +8,7 @@ WSL didn't work for first half an hour and had to restart laptop :x
 | --- | --- | --- | --- |
 | [A: Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | ✅ | 01:11 |  |
 | [B: Koxia and Permutation](https://codeforces.com/contest/1770/problem/B) | ✅ | 01:43 |  |
-| [C: Koxia and Number Theory](https://codeforces.com/contest/1770/problem/C) | Failed Pretest 4 |  |  |
+| [C: Koxia and Number Theory](https://codeforces.com/contest/1770/problem/C) | WA Pretest 4 |  |  |
 | [D: Koxia and Game](https://codeforces.com/contest/1770/problem/D) |  |  |  |
 | [E: Koxia and Tree](https://codeforces.com/contest/1770/problem/E) |  |  |  |
 | [F: Koxia and Sequence](https://codeforces.com/contest/1770/problem/F) |  |  |  |
