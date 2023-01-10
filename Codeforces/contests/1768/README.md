@@ -1,6 +1,6 @@
 ## [Codeforces Round #842 (Div. 2)](https://codeforces.com/contest/1768) 
 **01/05/2023** 120 min  
-1019 ↗ 1090
+1019 ↗ 1092
 
 I was surprised that didn't TLE on pretests for problem C, so I should've seen this coming huh. Learning to not trust pretests.  
 Passing 3 questions still eludes me...  
